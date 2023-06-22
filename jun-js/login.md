@@ -29,7 +29,7 @@ https://codepen.io/ricardoolivaalonso/full/YzyaRPN
         - display username
         - LOGOUT button
 
-## Additional task
+## Additionally
 
 - Implement login through the social media buttons:
   - Add social media button to the Login Page
@@ -44,16 +44,18 @@ https://codepen.io/ricardoolivaalonso/full/YzyaRPN
 - Create this small application using **JS/HTML/CSS**
 - Use window **localStorage/sessionStorage** to save user data and verify that user logged in/out
 - Use window **history** to redirect user to different pages (you can use hashes instead of routes)
-- Add at lest some unit test for BE part and for frontend as well, add please at least some unit tests using Jest
+- Add at lest some unit test using Jest
 
 Application repo should have next scripts, in order to check how it works:
 
 `lint` (using eslint) <br />
 `build` (a build version) <br />
-`start` (to run application locally) - this should start the FE webpack to rebuild app on changes + this should start a backend NODEJS server <br />
+`start` (to run application locally using webpack static server) - this should start the FE webpack to rebuild app on changes + this should start a backend NODEJS server <br />
 
-Which technologies covered in this task:
+### Which technologies will be covered in this task:
+
 * Webpack
+* Jest
 * Eslint
 * JS/HTML/CSS
 * window objects like: history and localStorage/sessionStorage
