@@ -1,10 +1,10 @@
-# Login APP
+# TODO List APP
 
 As a UI inspiration you can use one of this:
 - https://1.bp.blogspot.com/-i78iKr_P9Pk/X9ohjXyc5eI/AAAAAAAAA_4/8UauxZaOgUshGK7MXwW1gZqts7Zrf_AewCLcBGAsYHQ/s1280/Todo%2BList%2BApp%2Busing%2BHTML%2BCSS%2B%2526%2BJavaScript.webp
 - https://f.hubspotusercontent40.net/hubfs/5621549/Angular-Todo-List-Tutorial-png-1.png
 
-## Task
+## Requirements
 
 - Create **TODO List App** that includes
   - 2 columns of tasks:
@@ -32,12 +32,13 @@ As a UI inspiration you can use one of this:
 
 - Create this small application using **React/Typescript/JS/HTML/CSS**
 - Optionally use window **localStorage/sessionStorage** to save tasks there
-- Add at lest some unit test for BE part and for frontend as well, add please at least some unit tests using Jest
+- Add at lest some unit test for FE using Jest
 
 Application repo should have next scripts, in order to check how it works:
 
 `lint` (using eslint) <br />
 `build` (a build version) <br />
+`test` (to run tests) <br />
 `start` (to run application locally) - this should start the FE webpack to rebuild app on changes + this should start a backend NODEJS server <br />
 
 ### Which technologies will be covered in this task:
