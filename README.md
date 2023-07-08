@@ -1,3 +1,3 @@
-# Scale In IT bootcamp
+# Scale In IT
 
-Scale In IT bootcamp tasks
+Scale In IT practical tasks
